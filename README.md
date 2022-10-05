@@ -1,2 +1,3 @@
 # calculator
-click ro visit website : https://venkateshmallula.github.io/calculator/
+click ro visit website : https://venkateshmallula.github.io/calculator/.html
+
